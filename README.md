@@ -1,2 +1,2 @@
-# dot_files
-original dot files
+# NVIM PDE Dot Files
+NVIM Config & Additional Configurations.
